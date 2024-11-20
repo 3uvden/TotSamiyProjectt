@@ -87,6 +87,10 @@ int main()
 	delete[] nameArr;
 	delete[] countArr;
 	delete[] priceArr;
+	delete[] countCheckArr;
+	delete[] priceCheckArr;
+	delete[] totalpriceCheckArr;
+	delete[] nameCheckArr;
 	return 0;
 }
 
